@@ -15,4 +15,4 @@ Este projeto implementa um pipeline de dados utilizando o Azure Databricks, exem
 - **Jupyter Notebook**: Desenvolvimento dos scripts em Python com visualizações interativas.
 - **Azure Data Lake / Blob Storage**: (Opcional) Armazenamento de dados brutos e processados.
 - **Python**
-- - **SQL**
+- **SQL**
